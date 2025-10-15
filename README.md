@@ -1,2 +1,4 @@
 # Garrigues-Verhille-Fabre-mesures
-Repository du tp de qualité de dev.
+Garrigues Ronan
+Verhille Manon
+Fabre Alexandre
